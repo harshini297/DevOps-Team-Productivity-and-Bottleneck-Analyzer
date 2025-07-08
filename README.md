@@ -209,23 +209,4 @@ Check for missing required fields
 
 
 
-📝 License
-This project is licensed under the MIT License - see the LICENSE file for details.
-🙏 Acknowledgments
 
-Built with Streamlit for the web interface
-Powered by Plotly for interactive visualizations
-Uses scikit-learn for machine learning capabilities
-Inspired by the DORA Research program
-
-📞 Support
-
-Issues: Report bugs or request features via GitHub Issues
-Discussions: Join the conversation in GitHub Discussions
-Documentation: Check the Wiki for detailed guides
-
-🌟 Star History
-Show Image
-
-Made with ❤️ for DevOps teams everywhere
-Transform your team's productivity with data-driven insights and AI-powered recommendations.
